@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Tierra Firme: imperios, propaganda y disputas por el dominio territorial"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2018-02-01-tierra-firme-imperios-propaganda-number-3
+date: 2018-02-01
+venue: 'Mapeando Colombia: la construcción del territorio'
+paperurl: 'https://bibliotecanacional.gov.co/es-co/colecciones/biblioteca-digital/mapeando/Paginas/capitulodos.html'
+citation: 'Afanador Llach, Maria José. (2018). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Descarga el capítulo acá](https://bibliotecanacional.gov.co/es-co/colecciones/biblioteca-digital/mapeando/activos/pdf/MAPCO-IMPRESO-CAP2.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Citación recomendada: Afanador Llach, Maria José. (2018). "Tierra Firme: imperios, propaganda y disputas por el dominio territorial." <i>Mapeando Colombia: la construcción del territorio</i>.
