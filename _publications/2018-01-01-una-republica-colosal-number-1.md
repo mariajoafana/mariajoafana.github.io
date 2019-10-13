@@ -9,6 +9,6 @@ citation: 'Afanador Llach, Maria José. (2018). Una república colosal: la unió
 
 ---
 
-[Descarga este artículo acá](http://mariajoafana.github.io/blob/master/files/una-republica-colosal-number-1.pdf)
+[Descarga el artículo acá](http://mariajoafana.github.io/blob/master/files/una-republica-colosal-number-1.pdf)
 
 Citación sugerida: Afanador Llach, Maria José. (2018). Una república colosal: la unión de Colombia, el acceso al Pacífico y la utopía del comercio global, 1819-1830. <i>Anuario de Historia Social y de la Cultura1</i>. 45(2), 35-63.
