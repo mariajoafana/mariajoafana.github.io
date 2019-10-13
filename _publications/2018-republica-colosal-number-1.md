@@ -1,7 +1,7 @@
 ---
 title: "Una república colosal: la unión de Colombia, el acceso al Pacífico y la utopía del comercio global, 1819-1830"
 collection: publications
-permalink: /publication/2018-republica-colosal
+permalink: /publication/2018-republica-colosal-number-1
 excerpt: 'Una mirada a la imaginación geográfica y debates de econonía política entre los líderes de diferentes regiones de la recién constituida Gran Colombia y la importancia de las provincias del Pacífico en este momento histórico.'
 date: 2018
 venue: 'Anuario de Historia Social y de la Cultura'
