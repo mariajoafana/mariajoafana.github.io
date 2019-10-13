@@ -9,46 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Politóloga, Universidad de los Andes, Colombia, 2004
+* Máster en Historia. Departamento de Historia, Universidad de Texas en Austin, Mayo 2011
+* Doctorado en Historia. Departamento de Historia, Universidad de Texas en Austin, Mayo 2016
 
-Work experience
+Posiciones académicas
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Profesor adjunto, septiembre 2016-mayo 2017
+  * Departamento de Historia. Simmons College, Boston Massachusetts. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Profesora de cátedra, agosto-diciembre 2017
+  * Facultad de Artes y Humanidades, Universidad de los Andes, Bogotá, Colombia
 
-Publications
+Profesora asistente, enero 2018-presente
+* Facultad de Artes y Humanidades, Universidad de los Andes, Bogotá, Colombia
+
+
+Publicaciones
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+  
+Charlas
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Docencia
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
