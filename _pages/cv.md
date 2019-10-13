@@ -12,6 +12,7 @@ redirect_from:
 Educación
 ======
 * Politóloga, Universidad de los Andes, Colombia, 2004
+* Historiadora, Universidad de los Andes, Colombia, 2005
 * Máster en Historia. Departamento de Historia, Universidad de Texas en Austin, Mayo 2011
 * Doctorado en Historia. Departamento de Historia, Universidad de Texas en Austin, Mayo 2016
 
