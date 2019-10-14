@@ -1,6 +1,6 @@
 ---
 title: "The Programming Historian en español"
-excerpt: "Publicamos tutoriales revisados por pares dirigidos a humanistas que quieran aprender una amplia gama de herramientas digitales, técnicas computacionales y flujos de trabajo útiles para investigar y enseñar. <br/><img src='/images/ph-logo.png'>"
+excerpt: "Publicamos tutoriales revisados por pares dirigidos a humanistas que quieran aprender una amplia gama de herramientas digitales, técnicas computacionales y flujos de trabajo útiles para investigar y enseñar. <br/><img src='/images/logo-ph.png'>"
 collection: portfolio
 ---
 
