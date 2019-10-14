@@ -4,4 +4,4 @@ excerpt: "Organización para impulsar el campo y generar comunidad alrededor de 
 collection: portfolio
 ---
 
-[Página web de la Red Colombiana de Humanidades Digitales](http://www.rehdi.co/)
+Soy miembro del comité base y editora del Blog de la [Red Colombiana de Humanidades Digitales](http://www.rehdi.co/)
