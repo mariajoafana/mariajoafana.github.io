@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 Soy miembro del comité base y editora del Blog de la [Red Colombiana de Humanidades Digitales](http://www.rehdi.co/)
+Enero 2018-presente
