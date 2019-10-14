@@ -12,5 +12,8 @@ main:
   - title: "Proyectos"
     url: /portfolio/
      
+  - title: "Colaboraciones"
+    url: /colaboraciones/
+     
   - title: "CV"
     url: /cv/
