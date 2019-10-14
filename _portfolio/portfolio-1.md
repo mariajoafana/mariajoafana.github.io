@@ -1,6 +1,6 @@
 ---
 title: "Red Colombiana de Humanidades Digitales"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Logo RCHD para fondo blanco.png'>"
+excerpt: "Organización para impulsar el campo y generar comunidad alrededor de las HD en Colombia<br/><img src='/images/Logo RCHD para fondo blanco.png'>"
 collection: portfolio
 ---
 
