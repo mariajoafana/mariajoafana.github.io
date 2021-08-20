@@ -118,6 +118,7 @@ include:
   - .htaccess
   - _pages
   - files
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -306,5 +307,9 @@ compress_html:
   ignore:
     envs: development
     
-imagesurl: "/mysite/img/"
-thumbsurl: "/mysite/thumbs/"
+imagesurl: "/mariajoafana/img/"
+thumbsurl: "/mariajoafana/thumbs/"
+
+
+
+
