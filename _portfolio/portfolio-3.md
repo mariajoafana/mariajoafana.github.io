@@ -9,8 +9,9 @@ collection: portfolio
 
 ##Colección de documentos en texto plano
 
+
 | Red HD | AHDH |
-|:-------------------------------|:------------------------------------------------|:----------------------------------------------|
+|-------------------------------|------------------------------------------------|----------------------------------------------|
 |1. Información de los responsables | 1. Contenido y marco teórico|
 |2. Documentación metodológica y académica |2. Capacidad de transformación epistemológica |
 |3. Usabilidad y arquitectura de la información | 3. Coeficiente de transdisciplinariedad|
