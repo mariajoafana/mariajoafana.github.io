@@ -7,4 +7,19 @@ collection: portfolio
 
 <br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
 
-{% include my-gallery.html folder="myfolder" %}
+##Colección de documentos en texto plano
+
+| Red HD | AHDH |
+|:-------------------------------|:------------------------------------------------|:----------------------------------------------|
+|1. Información de los responsables | 1. Contenido y marco teórico|
+|2. Documentación metodológica y académica |2. Capacidad de transformación epistemológica |
+|3. Usabilidad y arquitectura de la información | 3. Coeficiente de transdisciplinariedad|
+|4. Control de calidad del proyecto | 4. Consulta con expertos y asesores en varias fases |
+|5. Información legal de los contenidos, reproducción|5. Grado de innovación tecnológica |
+|6. Visibilidad y difusión | 6. Uso de estándares en los procesos de clasificación|
+|  | 7. Diseño, visualización y disposición |
+|  | 8. Repercusión científico-académica |
+|  | 9. Repercusión social |
+|  | 10. Grado de accesibilidad y sostenibilidad en el tiempo|
+|  | 11. Atención a cuestiones ética|
+|  | 12. Proceso de publicación y difusión de resultados|
