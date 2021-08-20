@@ -6,3 +6,6 @@ collection: portfolio
 ---
 
 <br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
+
+{% include image-gallery.html folder="/uploads/album" %}
+
