@@ -5,4 +5,4 @@ excerpt: "Recurso digital para conocer, explorar e interpretar un conjunto de do
 collection: portfolio
 ---
 
-
+<br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
