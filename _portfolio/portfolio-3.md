@@ -12,7 +12,7 @@ collection: portfolio
 
 | Título | Autor | Año | Acceso en texto plano |
 |-------------------------------|------------------------------------------------|----------------------------------------------|
-|Antonio Caulín | Historia coro-graphica, natural y evangelica de la Nueva Andalucia, provincias de Cumaná, Guayana y Vertientes del Rio Orinoco| 1736 | [Libro primero](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md), [libro segundo](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md), [libro tercero](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md), [libro cuarto](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md)|
+|Antonio Caulín | Historia coro-graphica, natural y evangelica de la Nueva Andalucia, provincias de Cumaná, Guayana y Vertientes del Rio Orinoco| 1736 | [Libro primero](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md) [Libro segundo](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md) [Libro tercero](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md) [Libro cuarto](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md)|
 |2. Documentación metodológica y académica |2. Capacidad de transformación epistemológica |
 |3. Usabilidad y arquitectura de la información | 3. Coeficiente de transdisciplinariedad|
 |4. Control de calidad del proyecto | 4. Consulta con expertos y asesores en varias fases |
