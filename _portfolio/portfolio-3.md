@@ -13,14 +13,5 @@ collection: portfolio
 | Título | Autor | Año | Acceso en texto plano |
 |-------------------------------|------------------------------------------------|----------------------------------------------|
 |Antonio Caulín | Historia coro-graphica, natural y evangelica de la Nueva Andalucia, provincias de Cumaná, Guayana y Vertientes del Rio Orinoco| 1736 | [Libro primero](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md) [Libro segundo](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md) [Libro tercero](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md) [Libro cuarto](https://github.com/mariajoafana/inventar-colombia/blob/master/Orinoco-digital/Juan-Rivero-1776.md)|
-|2. Documentación metodológica y académica |2. Capacidad de transformación epistemológica |
-|3. Usabilidad y arquitectura de la información | 3. Coeficiente de transdisciplinariedad|
-|4. Control de calidad del proyecto | 4. Consulta con expertos y asesores en varias fases |
-|5. Información legal de los contenidos, reproducción|5. Grado de innovación tecnológica |
-|6. Visibilidad y difusión | 6. Uso de estándares en los procesos de clasificación|
-|  | 7. Diseño, visualización y disposición |
-|  | 8. Repercusión científico-académica |
-|  | 9. Repercusión social |
-|  | 10. Grado de accesibilidad y sostenibilidad en el tiempo|
-|  | 11. Atención a cuestiones ética|
-|  | 12. Proceso de publicación y difusión de resultados|
+|Joseph Gumilla |Historia natural, civil y geográfica de las naciones situadas en las riveras del Río Orinoco|1741| |
+|Miguel Miramón | Descripción Corográfico-Mixta de la Provincia de Guayana, en que da razón de los ríos que bañan y facilitan sus comunicaciones (...)| 1788 | |
