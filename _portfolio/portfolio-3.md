@@ -7,6 +7,10 @@ collection: portfolio
 
 <br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
 
+
+Este recurso digital contiene un conjunto de documentos históricos del siglo dieziocho conectados a la historia de las regiones orientales del virreinato del Nuevo Reino de Granada y en particular con el río Orinoco. Los documentos fueron procesados con reconocimiento óptico de caracteres (OCR).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+
 **Colección de documentos en texto plano**
 
 
