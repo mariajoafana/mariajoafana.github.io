@@ -18,7 +18,7 @@ El recurso incluye:
 3. Un ejercicio de exploración de un corpus de 43 documentos del Nuevo Reino de Granada con la metodologías de modelado de tópicos.  
 [Navega los documentos a través del modelado de tópicos](https://mariajoafana.github.io/publication/2021-08-24-modelado-topicos)
 
-4. Claves de lectura del libro de Joseph Gumilla a partir de una curaduría de fragmentos clasificados según las categorías: indígenas, imperios, fauna, flora, utopía y otras. [Desgarga la tabla de fragmentos curados](https://github.com/mariajoafana/mariajoafana.github.io/blob/master/assets/Orinoco_ilustrado_claves_lectura.xlsx)
+4. Claves de lectura del libro de Joseph Gumilla a partir de una curaduría de fragmentos clasificados según las categorías: indígenas, imperios, fauna, flora, utopía y otras. [Descarga la tabla de fragmentos curados](https://github.com/mariajoafana/mariajoafana.github.io/blob/master/assets/Orinoco_ilustrado_claves_lectura.xlsx)
 
 
 
