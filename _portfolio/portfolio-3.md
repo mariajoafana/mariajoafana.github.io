@@ -15,7 +15,7 @@ El recurso incluye:
 2. Una guía para aplicar y comprender en qué consiste el análisis computacional de textos con una herramienta en acceso abierto.   
 
 
-[Acceso a los documentos](https://github.com/mariajoafana/mariajoafana.github.io/blob/master/_portfolio/coleccion-documentos.md)
+[Acceso a los documentos](https://mariajoafana.github.io/publication/coleccion-documentos)
 
 
 [Acceso a la guía]
