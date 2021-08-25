@@ -18,4 +18,4 @@ El recurso incluye:
 [Acceso a los documentos](https://mariajoafana.github.io/publication/coleccion-documentos)
 
 
-[Acceso a la guía](https://mariajoafana.github.io/publication/analisis-texto)
+[Acceso a la guía](https://mariajoafana.github.io/publication/guia-analisis-texto)
