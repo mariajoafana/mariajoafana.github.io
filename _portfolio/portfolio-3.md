@@ -18,11 +18,11 @@ El recurso incluye:
 
 [Acceso a los documentos](https://mariajoafana.github.io/publication/coleccion-documentos)
 
-
 [Acceso a la guía](https://mariajoafana.github.io/publication/guia-analisis-texto)
 
 [Navegado los documentos a través del modelado de tópicos](https://mariajoafana.github.io/publication/modelado-topicos)
 
 
-_Cérditos_
+_Créditos_
+
 Este prototipo se desarrolló con apoyo de la Beca a Estrategias de Producción y Circulación del Patrimonio Bibliográfico y Documental Colombiano.
