@@ -18,9 +18,16 @@ El recurso incluye:
 3. Un ejercicio de exploración de un corpus de 43 documentos del Nuevo Reino de Granada con la metodologías de modelado de tópicos.  
 [Navega los documentos a través del modelado de tópicos](https://mariajoafana.github.io/publication/2021-08-24-modelado-topicos)
 
+4. Claves de lectura del libro de Joseph Gumilla a partir de una curaduría de fragmentos clasificados según las categorías: indígenas, imperios, fauna, flora, utopía y otras. [Desgarga la tabla de fragmentos curados](https://github.com/mariajoafana/mariajoafana.github.io/blob/master/assets/Orinoco_ilustrado_claves_lectura.xlsx)
+
+
 
 _Créditos_
 
-Este prototipo se desarrolló con apoyo de la Beca a Estrategias de Producción y Circulación del Patrimonio Bibliográfico y Documental Colombiano y de la Universidad de los Andes.
+Este prototipo se desarrolló con apoyo de la Beca a Estrategias de Producción y Circulación del Patrimonio Bibliográfico y Documental Colombiano y de la Universidad de los Andes. 
+
+Investigadora Principal: Maria José Afanador Llach
+Co-investigadores: Laura Romero, estudiante de pregado en Historia; Santiago Rangel, estudiante de pregrado en Ingeniería de Sistemas
+
 <br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
 
