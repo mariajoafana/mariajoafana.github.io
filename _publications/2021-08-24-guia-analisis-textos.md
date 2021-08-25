@@ -1,7 +1,7 @@
 ---
 title: "Guía sobre análisis de texto"
 collection: publications
-permalink: /publication/guia-analisis-texto
+permalink: /publication/guia-analisis-textos
 
 ---
 **Ideas clave**
