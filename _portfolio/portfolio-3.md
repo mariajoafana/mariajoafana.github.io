@@ -5,7 +5,6 @@ excerpt: "Recurso digital para conocer, explorar e interpretar un conjunto de do
 collection: portfolio
 ---
 
-<br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
 
 Este prototipo digital contiene un conjunto de documentos históricos del siglo dieziocho conectados a la historia de las regiones orientales del virreinato del Nuevo Reino de Granada y en particular con el río Orinoco. El acceso se provee en texto plano junto con una guía para aplicar una metodología de análisis  de texto con una aplicación de código abierto.  
 
@@ -22,4 +21,6 @@ El recurso incluye:
 
 _Créditos_
 
-Este prototipo se desarrolló con apoyo de la Beca a Estrategias de Producción y Circulación del Patrimonio Bibliográfico y Documental Colombiano.
+Este prototipo se desarrolló con apoyo de la Beca a Estrategias de Producción y Circulación del Patrimonio Bibliográfico y Documental Colombiano y de la Universidad de los Andes.
+<br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
+
