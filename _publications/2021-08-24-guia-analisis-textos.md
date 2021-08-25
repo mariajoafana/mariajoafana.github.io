@@ -23,7 +23,7 @@ permalink: /publication/guia-analisis-textos
    - Al revisar la lista de "palabras diferenciadas", ¿podrías organizar bajo una etiqueta común algunas "palabras distintivas"?
    - En la sección "Palabras claves en contexto" puedes seleccionar palabras dentro del corpus (e.g. Conquista) y y ver el texto circundante dentro del mismo. ¿Qué podríamos decir de la manera en que los autores de los textos hablan sobre la conquista o sobre los indios?  
  9. Para tener en cuenta. Voyant tools tiene muchas más opciones. Consulta la [documentación](https://voyant-tools.org/docs/#!/guide) para resolver dudas y aprender más sobre su funcionalidad. 
- 10. Esta [lección en español sobre Voyant Tools](https://programminghistorian.org/es/lecciones/analisis-voyant-tools)será de utilidad para explorar a mayot profundidad las potencialidades de la herramienta. 
+ 10. Esta [lección en español sobre Voyant Tools](https://programminghistorian.org/es/lecciones/analisis-voyant-tools) te será de utilidad para explorar a mayor profundidad las potencialidades de la herramienta. 
 
 
 
