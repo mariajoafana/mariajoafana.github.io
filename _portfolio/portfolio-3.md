@@ -13,7 +13,7 @@ El recurso incluye:
 [Accede a los documentos](https://mariajoafana.github.io/publication/coleccion-documentos)
 
 2. Una guía para aplicar y comprender en qué consiste el análisis de textos con una herramienta web de acceso abierto.  
-[Accede a la guía](https://mariajoafana.github.io/publication/2021-08-24-guia-analisis-texto)
+[Accede a la guía](https://mariajoafana.github.io/publication/2021-08-24-guia-analisis-textos)
 
 3. Un ejercicio de exploración de un corpus de 43 documentos del Nuevo Reino de Granada con la metodologías de modelado de tópicos.  
 [Navega los documentos a través del modelado de tópicos](https://mariajoafana.github.io/publication/2021-08-24-modelado-topicos)
