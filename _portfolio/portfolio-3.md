@@ -4,7 +4,7 @@ excerpt: "Recurso digital para conocer, explorar e interpretar un conjunto de do
 <br/><img src='/images/Mapa_Gumilla.png'>"
 collection: portfolio
 ---
-
+<br/><img src='/images/Mapa_Gumilla.png'>
 
 Este prototipo digital contiene un conjunto de documentos históricos del siglo dieziocho conectados a la historia de las regiones orientales del virreinato del Nuevo Reino de Granada y en particular con el río Orinoco. El acceso se provee en texto plano junto con una guía para aplicar una metodología de análisis  de texto con una aplicación de código abierto.  
 
