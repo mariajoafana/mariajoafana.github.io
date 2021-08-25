@@ -1,5 +1,5 @@
 ---
-title: " Colección de documentos en texto plano"
+title: " Colección de documentos, Nueva Granada, siglo XVIII"
 collection: publications
 permalink: /publication/coleccion-documentos
 
