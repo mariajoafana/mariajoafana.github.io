@@ -1,7 +1,7 @@
 ---
 title: "Modelado de tópicos"
 collection: publications
-permalink: /publication/modelado-topicos
+permalink: /publication/2021-08-24-modelado-topicos
 ---
 
 
