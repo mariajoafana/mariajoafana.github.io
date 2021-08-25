@@ -31,3 +31,4 @@ Co-investigadores: Laura Romero, estudiante de pregado en Historia; Santiago Ran
 
 <br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
 
+<br/><img src='/images/FacultadArteshumanidades.png'>
