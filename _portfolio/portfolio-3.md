@@ -16,11 +16,11 @@ El recurso incluye:
 3. Un ejercicio de exploración de un corpus de 43 documentos del Nuevo Reino de Granada con la metodologías de modelado de tópicos. El modelado de tópicos es una técnica sin supervisión de “machine learning” que permite tomar un conjunto de documentos, detectar patrones de palabras y frases y de esta manera hacer agrupaciones de palabras y expresiones que caracterizan un subconjunto de estos documentos. 
 
 
-[Acceso a los documentos](https://mariajoafana.github.io/publication/coleccion-documentos)
+[Accede a los documentos](https://mariajoafana.github.io/publication/coleccion-documentos)
 
-[Acceso a la guía](https://mariajoafana.github.io/publication/guia-analisis-texto)
+[Accede a la guía](https://mariajoafana.github.io/publication/guia-analisis-texto)
 
-[Navegado los documentos a través del modelado de tópicos](https://mariajoafana.github.io/publication/modelado-topicos)
+[Navega los documentos a través del modelado de tópicos](https://mariajoafana.github.io/publication/modelado-topicos)
 
 
 _Créditos_
