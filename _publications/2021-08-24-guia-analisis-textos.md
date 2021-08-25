@@ -8,6 +8,7 @@ permalink: /publication/guia-analisis-textos
 - Texto plano: un archivo de texto simple sin formato (por ejemplo .txt) que es leíble por el computador.
 - Voyant Tools: herramienta de lectura de textos en línea y un ambiente para el análisis de textos digitales.
 
+**Paso a paso**
 1. Descarga uno o más de los documentos disponibles en texto plano en la sección [Acceso a los documentos](https://mariajoafana.github.io/publication/coleccion-documentos)
 2. Entra a voyant-tools.org, haz clic en "Upload" 
 3. Carga el archivo .txt que descargaste. 
