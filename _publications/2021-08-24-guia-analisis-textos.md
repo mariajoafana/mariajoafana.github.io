@@ -2,8 +2,8 @@
 title: "Guía sobre análisis de texto"
 collection: publications
 permalink: /publication/guia-analisis-textos
-
 ---
+
 **Ideas clave**
 - Texto plano: un archivo de texto simple sin formato (por ejemplo .txt) que es leíble por el computador.
 - Voyant Tools: herramienta de lectura de textos en línea y un ambiente para el análisis de textos digitales.
