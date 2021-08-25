@@ -18,4 +18,4 @@ El recurso incluye:
 [Acceso a los documentos](https://github.com/mariajoafana/mariajoafana.github.io/blob/master/_portfolio/coleccion-documentos.md)
 
 
-Acceso a la guía
+[Acceso a la guía]
