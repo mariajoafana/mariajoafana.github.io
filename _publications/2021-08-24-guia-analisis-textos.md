@@ -1,7 +1,7 @@
 ---
 title: "Guía sobre análisis de texto"
 collection: publications
-permalink: /publication/guia-analisis-textos
+permalink: /publication/2021-08-24-guia-analisis-textos
 ---
 
 **Ideas clave**
