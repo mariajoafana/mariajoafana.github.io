@@ -13,7 +13,7 @@ permalink: /publication/analisis-texto
 3. Carga el archivo .txt que descargaste. 
 4. Si quieres cargar varios archivos a la vez, comprime los documentos seleccionándolos en la carpeta donde se encuentran, haz clic derecho en la carpeta donde se encuentran los documentos y elige "Compress/" (para Mac) o "Add to archive" (para Windows). En Voyant Tools puedes cargar la carpeta completa. 
 5. Una vez cargados tus documentos lo primero que hay que hacer es crear un enlace permanente para tu corpus. Haz clic en el ícono de "Export a URL" (ver imagen abajo) y haz clic en export. Tu corpus seguirá siendo accesible mientras lo abras por lo menos una vez al mes. Asegúrate de crear un "Bookmark" en tu navegador guardando así el enlace de tu corpus.
-6. <br/><img src='/images/Imagen 1.png'>
+<br/><img src='/images/Imagen 1.png'>
 
    
 
