@@ -27,6 +27,7 @@ _Créditos_
 Este prototipo se desarrolló con apoyo de la Beca a Estrategias de Producción y Circulación del Patrimonio Bibliográfico y Documental Colombiano y de la Universidad de los Andes. 
 
 Investigadora Principal: Maria José Afanador Llach
+
 Co-investigadores: Laura Romero, estudiante de pregado en Historia; Santiago Rangel, estudiante de pregrado en Ingeniería de Sistemas
 
 <br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
