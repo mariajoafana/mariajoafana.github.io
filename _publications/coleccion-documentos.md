@@ -1,4 +1,11 @@
-**Colección de documentos en texto plano**
+---
+title: " Colección de documentos en texto plano"
+collection: publications
+permalink: /publication/coleccion-documentos
+date: 2021-08-24
+---
+
+****
 
 
 | Título | Autor | Año | Acceso en texto plano |
