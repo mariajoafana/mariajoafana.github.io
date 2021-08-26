@@ -28,7 +28,7 @@ Este prototipo se desarrolló con apoyo de la Beca a Estrategias de Producción 
 
 Investigadora Principal: Maria José Afanador Llach
 
-Co-investigadores: Laura Romero, estudiante de pregado en Historia; Santiago Rangel, estudiante de pregrado en Ingeniería de Sistemas
+Co-investigadores: Laura Romero, estudiante de pregado en Historia; Santiago Rangel, estudiante de pregrado en Ingeniería de Sistemas; Santiago González, Maestro en Geografía
 
 <br/><img src='/images/TiraLogosMin+BNC+Estimulos.png'>
 
