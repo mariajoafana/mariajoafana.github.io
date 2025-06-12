@@ -10,6 +10,8 @@ citation: 'Afanador Llach, Maria José. (2023). Modelo de valoración de product
 
 Documento conceptual sobre la valoración de productos digitales de investigación en las humanidades. El documento incluye un estado del arte sobre el problema de la evaluación de productos de investigación en el campo de las HD en diferentes contextos académicos. En esta discusión el documento propone un modelo flexible y abierto a los nuevos desarrollos que la computación y la web hacen posibles para la producción académica especializada. El documento se construyó en conversación con un número reducido de profesoras y profesores de la Facultad de Artes y Humanidades y del Departamento de Historia y fue presentado y aprobado por el Comité de Investigación de la Universidad de los Andes  en mayo de 2023. 
 
-[Descarga el documento acá](files/6_a_Modelo_Valoracion_HD_23mayo2023 (1).pdf)
+[Descarga el documento acá]([mariajoafana.github.io/files
+/6_a_Modelo_Valoracion_HD_23mayo2023 (1).pdf](https://github.com/mariajoafana/mariajoafana.github.io/blob/master/files/6_a_Modelo_Valoracion_HD_23mayo2023%20(1).pdf))
+
 
 
