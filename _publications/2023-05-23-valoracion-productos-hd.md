@@ -9,4 +9,6 @@ Documento conceptual sobre la valoración de productos digitales de investigaci�
 Citación: 'Afanador Llach, Maria José. (2023). Modelo de valoración de productos digitales de investigación. Categoría: Humanidades Digitales. <i>Centro e Investigación y Creación, Facultad de Artes y Humanidades, Universidad de los Andes</i>. 1-15.'
 
 
- 
+
+
+[Descarga el documento acá](files/6_a_Modelo_Valoracion_HD_23mayo2023 (1).pdf)
