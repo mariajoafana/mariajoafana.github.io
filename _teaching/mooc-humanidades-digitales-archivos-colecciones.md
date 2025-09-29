@@ -2,7 +2,7 @@
 title: "Humanidades digitales: archivos y colecciones"
 collection: teaching
 type: "MOOC"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/mooc-humanidades-digitales-archivos-colecciones
 venue: "Coursera, Universidad de los Andes"
 date: 2025-01-01
 location: "Online"
