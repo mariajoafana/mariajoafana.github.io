@@ -20,22 +20,14 @@ _Créditos_
 Investigadores
 
 Jaime Borja, Profesor Titular del Departamento de Historia, Universidad de los Andes (jborja@uniandes.edu.co)
-
-Jaime Borja
 Maria José Afanador Llach, Profesora Asociada, Facultad de Artes y Humanidades, Universidad de los Andes (mj.afanador28@uniandes.edu.co)
 
-Maria José Afanador
 Co-investigadora y asistente doctoral
-
 Laura Manrique †, Doctora en Historia, Universidad de los Andes
 
 Monitores de investigación
-
 Raquel Cristancho, estudiante de pregrado en Historia
-
 Julián Duque, estudiante de pregrado en Historia y Narrativas digitales
-
 Rodrigo Borja, estudiante de pregrado en Historia
-
 Ricardo Andrés Flórez, Asistente graduado de la maestría en Humanidades Digitales
 
