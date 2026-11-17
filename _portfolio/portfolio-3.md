@@ -1,5 +1,5 @@
 ---
-title: "Orinoco digital: historia, geografía y utopía"
+title: "Historia del internet y la Web en Colombia. Una historia a muchas voces 1988-1996"
 excerpt: "Este repositorio explora los orígenes del internet en Colombia a través de fuentes orales y de archivo. Ofrece una lectura multimodal del proceso de conexión del país a las redes digitales, destacando los actores, tensiones y transformaciones que marcaron este proceso histórico."
 ---
 
